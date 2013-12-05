@@ -1,6 +1,6 @@
 Nothing to see here
 ==============
-This is a code dump of some old code lying around from a lost project that was lost.
+This is a code dump of some old code lying around. The working version seems to have been lost long ago.
 
 mvn compile
 
